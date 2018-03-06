@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Anna Pavshinskaya](https://up.htmlacademy.ru/htmlcss/20/user/561707).
-
+* Наставник [Danila Prokopenko](https://htmlacademy.ru/profile/id324297)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
